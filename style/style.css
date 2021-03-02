@@ -180,6 +180,7 @@ nav a:hover{
 #widget_galeria img{
     width: 150px;
     height: 150px;
+    object-fit: cover;
 }
 
 article a{
