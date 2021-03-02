@@ -177,6 +177,12 @@ nav a:hover{
     margin-top: 10px;
 }
 
+#widtget_galeria{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+}
+
 #widget_galeria img{
     width: 150px;
     height: 150px;
